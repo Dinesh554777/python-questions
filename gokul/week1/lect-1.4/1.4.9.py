@@ -2,3 +2,6 @@
 # ```
 # LINE-1
 # print(a*2)
+
+a=input("Enter the name:")
+print(a*2) #GOKULGOKUL
