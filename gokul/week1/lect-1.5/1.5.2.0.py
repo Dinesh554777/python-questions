@@ -1,9 +1,8 @@
 # 1. Identify the output if the input is 3
 #     ```
-# n=input()
-# print(n*n)
-# print(n+n+n)
-# print(4*n)
-# print(n/2)
-# print(n-n)
-#     ```
+n=int(input())
+print(n*n) # 9
+print(n+n+n) #9
+print(4*n) #12
+print(n/2) #1.5
+print(n-n) #0
