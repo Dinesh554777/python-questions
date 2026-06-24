@@ -5,12 +5,15 @@
 1. what will be the output?
     ```
     x=True
-    print(type(x))
+    print(type(x)) #<class 'bool'>
     ```
 1. what will be the output?
     ```
     x=false
     print(type(x))
+    #x=false #in bool type "false" is not defined, it means "False"
+x=False #corrected format
+print(type(x))
     ```
 1. what will be the value stored in each variable?
     ```
@@ -19,6 +22,16 @@
     c=int("212")
     d=float("1.2")
     e=int("1.2")
+    a=int(5.7)
+print(a)
+b=int('10')
+print(b)
+c=int("212")
+print(c)
+d=float("1.2")
+print(d)
+#e=int("1.2")
+#print(e)
     ```
 
 1. what will be the output?
@@ -43,5 +56,18 @@
     print(bool(h))
     print(bool(i))
     print(bool(j))
+    '''True
+# True
+# False
+# True
+# True
+# False
+# True
+# True
+# False
+# True
+# True
+# False
+# True'''
     ```
 
