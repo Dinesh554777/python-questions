@@ -3,3 +3,6 @@
 #     x=True
 #     print(type(x))
 #     ```
+
+x=True
+print(type(x)) #<class 'bool'>
