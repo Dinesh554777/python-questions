@@ -29,4 +29,16 @@ print(bool(k))
 print(bool(l))
 print(bool(m))
 
-
+'''True
+True
+False
+True
+True
+False
+True
+True
+False
+True
+True
+False
+True'''
