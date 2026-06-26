@@ -10,6 +10,6 @@ print(s[2])
 print(c[3:7])
 print(s[1:4])
 print(s[1:5])
-print(s-t)
-print(s+t)
+# print(s-t) unsupported operand type(s) for -: 'str' and 'str'
+print(s+t) #concatenate the two string
 #     ```
