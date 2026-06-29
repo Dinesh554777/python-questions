@@ -16,3 +16,8 @@ E = False  # Our discovered answer
 line_500_result = eval("not " * 500 + "E")
 
 print("Line 500 evaluates to:", line_500_result)
+
+# e1=True
+# e2=True
+# e1 and e2 and 1/0
+# print(e2)
