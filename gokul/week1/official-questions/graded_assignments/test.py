@@ -1,2 +1,4 @@
 print(type(1+4/2))
 print(type(1 >0 and -1 < 0 and 1==1 ))
+print(1+((3/(4**2))*0))
+
