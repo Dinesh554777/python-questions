@@ -2,4 +2,11 @@ print(type(1+4/2))
 print(type(1 >0 and -1 < 0 and 1==1 ))
 print(1+((3/(4**2))*0))
 print((10**3) + (9**3) == (12**3) + (1**3)==1729)
+E_1 = True
+E_2 = False
+
+E_3 = not (E_1 or E_2)
+E_4 = (not E_1) and (not E_2)
+
+print(E_3 == E_4)
 
