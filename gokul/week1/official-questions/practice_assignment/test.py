@@ -18,3 +18,10 @@ print((8.2*(10**4))+19)
 print((not False) and (True and False))
 
 print(not 0 and 10 // 5==2)
+
+word = "Python"
+option_2 = word[0] + word[-1]
+option_3 = word[0] + word[len(word) - 1]
+print("Original word:", word)
+print("Option 2 result:", option_2)
+print("Option 3 result:", option_3)
