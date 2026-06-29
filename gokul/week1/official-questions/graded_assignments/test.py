@@ -10,3 +10,9 @@ E_4 = (not E_1) and (not E_2)
 
 print(E_3 == E_4)
 
+E = False  # Our discovered answer
+
+
+line_500_result = eval("not " * 500 + "E")
+
+print("Line 500 evaluates to:", line_500_result)
