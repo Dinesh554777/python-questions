@@ -10,3 +10,5 @@ print("2:", type("@Python"))
 print("3:", type(20 ** 10 / 2 + 25 - 70))
 print("4:", type(False))
 print("5:", type(20 * 100.0 // 11 % 5))
+
+print(0 ** (1 ** (2 ** (3 ** 2))))
