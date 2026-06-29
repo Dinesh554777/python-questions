@@ -16,3 +16,5 @@ print(0 ** (1 ** (2 ** (3 ** 2))))
 print((8.2*(10**4))+19)
 
 print((not False) and (True and False))
+
+print(not 0 and 10 // 5==2)
