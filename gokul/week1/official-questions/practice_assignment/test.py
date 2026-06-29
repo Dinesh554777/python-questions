@@ -14,3 +14,5 @@ print("5:", type(20 * 100.0 // 11 % 5))
 print(0 ** (1 ** (2 ** (3 ** 2))))
 
 print((8.2*(10**4))+19)
+
+print((not False) and (True and False))
