@@ -21,3 +21,12 @@ print("Line 500 evaluates to:", line_500_result)
 # e2=True
 # e1 and e2 and 1/0
 # print(e2)
+
+word = '138412345678901938'
+
+a = 4
+b = 13
+
+# Print the slice and check if it evaluates to True
+print("Sliced string:", word[a:b])
+print("Evaluates to True?", word[a:b] == '123456789')
